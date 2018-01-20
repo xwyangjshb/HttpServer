@@ -86,7 +86,7 @@ namespace HTTPServerLib
 
         public string GetHeader(RequestHeaders header)
         {
-            return GetHeader(header);
+            return base.GetHeader(header);
         }
 
         public void SetHeader(RequestHeaders header, string value)

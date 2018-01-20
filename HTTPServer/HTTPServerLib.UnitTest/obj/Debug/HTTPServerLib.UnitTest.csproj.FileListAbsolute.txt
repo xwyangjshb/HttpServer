@@ -8,3 +8,10 @@ D:\Projects\Github\HttpServer\HTTPServer\HTTPServerLib.UnitTest\bin\Debug\HttpSe
 D:\Projects\Github\HttpServer\HTTPServer\HTTPServerLib.UnitTest\obj\Debug\HttpServerLib.UnitTest.csprojResolveAssemblyReference.cache
 D:\Projects\Github\HttpServer\HTTPServer\HTTPServerLib.UnitTest\obj\Debug\HttpServerLib.UnitTest.dll
 D:\Projects\Github\HttpServer\HTTPServer\HTTPServerLib.UnitTest\obj\Debug\HttpServerLib.UnitTest.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServerLib.UnitTest\bin\Debug\HttpServerLib.UnitTest.dll
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServerLib.UnitTest\bin\Debug\HttpServerLib.UnitTest.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServerLib.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServerLib.UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServerLib.UnitTest\obj\Debug\HttpServerLib.UnitTest.csprojResolveAssemblyReference.cache
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServerLib.UnitTest\obj\Debug\HttpServerLib.UnitTest.dll
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServerLib.UnitTest\obj\Debug\HttpServerLib.UnitTest.pdb

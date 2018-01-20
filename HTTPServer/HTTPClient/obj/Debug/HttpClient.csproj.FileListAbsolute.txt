@@ -8,3 +8,8 @@ D:\Projects\Github\HttpServer\HTTPServer\HttpClient\bin\Debug\HttpClient.exe
 D:\Projects\Github\HttpServer\HTTPServer\HttpClient\bin\Debug\HttpClient.pdb
 D:\Projects\Github\HttpServer\HTTPServer\HttpClient\obj\Debug\HttpClient.exe
 D:\Projects\Github\HttpServer\HTTPServer\HttpClient\obj\Debug\HttpClient.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpClient\bin\Debug\HttpClient.exe.config
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpClient\bin\Debug\HttpClient.exe
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpClient\bin\Debug\HttpClient.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpClient\obj\Debug\HttpClient.exe
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpClient\obj\Debug\HttpClient.pdb

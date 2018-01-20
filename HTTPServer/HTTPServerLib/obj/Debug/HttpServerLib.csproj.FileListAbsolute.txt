@@ -8,3 +8,8 @@ D:\Projects\Github\HttpServer\HTTPServer\HttpServerLib\bin\Debug\HttpServerLib.p
 D:\Projects\Github\HttpServer\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.dll
 D:\Projects\Github\HttpServer\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.pdb
 D:\Projects\Github\HttpServer\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.csprojResolveAssemblyReference.cache
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpServerLib\bin\Debug\HttpServerLib.dll
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpServerLib\bin\Debug\HttpServerLib.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.csprojResolveAssemblyReference.cache
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.dll
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HttpServerLib\obj\Debug\HttpServerLib.pdb

@@ -14,3 +14,11 @@ D:\Projects\Github\HttpServer\HTTPServer\HTTPServer\bin\Debug\HttpServerLib.pdb
 D:\Projects\Github\HttpServer\HTTPServer\HTTPServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
 D:\Projects\Github\HttpServer\HTTPServer\HTTPServer\obj\Debug\HttpServer.exe
 D:\Projects\Github\HttpServer\HTTPServer\HTTPServer\obj\Debug\HttpServer.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\bin\Debug\HttpServer.exe.config
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\bin\Debug\HttpServer.exe
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\bin\Debug\HttpServer.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\bin\Debug\HttpServerLib.dll
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\bin\Debug\HttpServerLib.pdb
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\obj\Debug\HttpServer.exe
+D:\Backup\DOCS\GitHub\HttpServer\HTTPServer\HTTPServer\obj\Debug\HttpServer.pdb

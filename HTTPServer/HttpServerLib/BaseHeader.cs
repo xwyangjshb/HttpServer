@@ -27,7 +27,7 @@ namespace HTTPServerLib
         /// </summary>
         protected string GetHeader(Enum header)
         {
-            var fieldName = header.GetDescription();
+            var fieldName = header.GetDescription().ToLower();
             if (fieldName == null) return null;
             var hasKey = Headers.ContainsKey(fieldName);
             if (!hasKey) return null;
@@ -39,7 +39,7 @@ namespace HTTPServerLib
         /// </summary>
         protected void SetHeader(Enum header, string value)
         {
-            var fieldName = header.GetDescription();
+            var fieldName = header.GetDescription().ToLower();
             if (fieldName == null) return;
             var hasKey = Headers.ContainsKey(fieldName);
             if (!hasKey) Headers.Add(fieldName, value);
